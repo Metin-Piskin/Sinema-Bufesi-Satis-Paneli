@@ -1,0 +1,20 @@
+C:\Users\Metin\source\repos\Değişkenler_Sinema_Büfe_Örnek\Değişkenler_Sinema_Büfe_Örnek\bin\Debug\Değişkenler_Sinema_Büfe_Örnek.exe.config
+C:\Users\Metin\source\repos\Değişkenler_Sinema_Büfe_Örnek\Değişkenler_Sinema_Büfe_Örnek\bin\Debug\Değişkenler_Sinema_Büfe_Örnek.exe
+C:\Users\Metin\source\repos\Değişkenler_Sinema_Büfe_Örnek\Değişkenler_Sinema_Büfe_Örnek\bin\Debug\Değişkenler_Sinema_Büfe_Örnek.pdb
+C:\Users\Metin\source\repos\Değişkenler_Sinema_Büfe_Örnek\Değişkenler_Sinema_Büfe_Örnek\obj\Debug\Değişkenler_Sinema_Büfe_Örnek.csprojAssemblyReference.cache
+C:\Users\Metin\source\repos\Değişkenler_Sinema_Büfe_Örnek\Değişkenler_Sinema_Büfe_Örnek\obj\Debug\Değişkenler_Sinema_Büfe_Örnek.Form1.resources
+C:\Users\Metin\source\repos\Değişkenler_Sinema_Büfe_Örnek\Değişkenler_Sinema_Büfe_Örnek\obj\Debug\Değişkenler_Sinema_Büfe_Örnek.Properties.Resources.resources
+C:\Users\Metin\source\repos\Değişkenler_Sinema_Büfe_Örnek\Değişkenler_Sinema_Büfe_Örnek\obj\Debug\Değişkenler_Sinema_Büfe_Örnek.csproj.GenerateResource.cache
+C:\Users\Metin\source\repos\Değişkenler_Sinema_Büfe_Örnek\Değişkenler_Sinema_Büfe_Örnek\obj\Debug\Değişkenler_Sinema_Büfe_Örnek.csproj.CoreCompileInputs.cache
+C:\Users\Metin\source\repos\Değişkenler_Sinema_Büfe_Örnek\Değişkenler_Sinema_Büfe_Örnek\obj\Debug\Değişkenler_Sinema_Büfe_Örnek.exe
+C:\Users\Metin\source\repos\Değişkenler_Sinema_Büfe_Örnek\Değişkenler_Sinema_Büfe_Örnek\obj\Debug\Değişkenler_Sinema_Büfe_Örnek.pdb
+C:\Users\Metin\source\repos\Metin Form\Değişkenler_Sinema_Büfe_Örnek\Değişkenler_Sinema_Büfe_Örnek\bin\Debug\Değişkenler_Sinema_Büfe_Örnek.exe.config
+C:\Users\Metin\source\repos\Metin Form\Değişkenler_Sinema_Büfe_Örnek\Değişkenler_Sinema_Büfe_Örnek\bin\Debug\Değişkenler_Sinema_Büfe_Örnek.exe
+C:\Users\Metin\source\repos\Metin Form\Değişkenler_Sinema_Büfe_Örnek\Değişkenler_Sinema_Büfe_Örnek\bin\Debug\Değişkenler_Sinema_Büfe_Örnek.pdb
+C:\Users\Metin\source\repos\Metin Form\Değişkenler_Sinema_Büfe_Örnek\Değişkenler_Sinema_Büfe_Örnek\obj\Debug\Değişkenler_Sinema_Büfe_Örnek.csprojAssemblyReference.cache
+C:\Users\Metin\source\repos\Metin Form\Değişkenler_Sinema_Büfe_Örnek\Değişkenler_Sinema_Büfe_Örnek\obj\Debug\Değişkenler_Sinema_Büfe_Örnek.BüfeSinema.resources
+C:\Users\Metin\source\repos\Metin Form\Değişkenler_Sinema_Büfe_Örnek\Değişkenler_Sinema_Büfe_Örnek\obj\Debug\Değişkenler_Sinema_Büfe_Örnek.Properties.Resources.resources
+C:\Users\Metin\source\repos\Metin Form\Değişkenler_Sinema_Büfe_Örnek\Değişkenler_Sinema_Büfe_Örnek\obj\Debug\Değişkenler_Sinema_Büfe_Örnek.csproj.GenerateResource.cache
+C:\Users\Metin\source\repos\Metin Form\Değişkenler_Sinema_Büfe_Örnek\Değişkenler_Sinema_Büfe_Örnek\obj\Debug\Değişkenler_Sinema_Büfe_Örnek.csproj.CoreCompileInputs.cache
+C:\Users\Metin\source\repos\Metin Form\Değişkenler_Sinema_Büfe_Örnek\Değişkenler_Sinema_Büfe_Örnek\obj\Debug\Değişkenler_Sinema_Büfe_Örnek.exe
+C:\Users\Metin\source\repos\Metin Form\Değişkenler_Sinema_Büfe_Örnek\Değişkenler_Sinema_Büfe_Örnek\obj\Debug\Değişkenler_Sinema_Büfe_Örnek.pdb
